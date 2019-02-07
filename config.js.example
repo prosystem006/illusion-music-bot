@@ -11,7 +11,7 @@ cfg.discord = {
 
 // General options, see the README for help
 cfg.options = {
-    defaultVolume: 100 // Sets the default volume percent on join
+    defaultVolume: 1000000 // Sets the default volume percent on join
 };
 
 // YouTube API Key, see the README for help
